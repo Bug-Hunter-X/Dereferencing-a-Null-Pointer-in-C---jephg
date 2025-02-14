@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++: dereferencing a null pointer. The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides a corrected version.  Null pointer dereferencing is a frequent cause of crashes and unexpected program termination.  Always check for null pointers before attempting to dereference them.
